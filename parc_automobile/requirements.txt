@@ -1,0 +1,18 @@
+# Dépendances du Projet Parc Automobile
+# Python 3.10+
+
+# Visualisation
+matplotlib>=3.7.0
+
+# Tests (optionnel)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Formatage du code (optionnel)
+black>=23.0.0
+flake8>=6.0.0
+
+# Documentation (optionnel)
+sphinx>=7.0.0# Dépendances principales du projet
+
+

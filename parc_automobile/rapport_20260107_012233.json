@@ -1,0 +1,166 @@
+{
+  "date_rapport": "2026-01-07T01:22:33.345930",
+  "total_vehicules": 15,
+  "total_missions": 160,
+  "cout_total_parc": 375400,
+  "distance_totale": 74590.0,
+  "top_vehicules_utilisation": [
+    [
+      "BM-333-WX",
+      14
+    ],
+    [
+      "MT-333-CC",
+      14
+    ],
+    [
+      "CI-666-MN",
+      12
+    ],
+    [
+      "AU-888-ZT",
+      11
+    ],
+    [
+      "MB-222-KL",
+      10
+    ]
+  ],
+  "top_vehicules_distance": [
+    [
+      "MT-333-CC",
+      7054.0
+    ],
+    [
+      "BM-333-WX",
+      6833.0
+    ],
+    [
+      "MT-222-BB",
+      6475.0
+    ],
+    [
+      "CI-666-MN",
+      6376.0
+    ],
+    [
+      "TO-555-YT",
+      6139.0
+    ]
+  ],
+  "top_vehicules_cout": [
+    [
+      "BM-333-WX",
+      40700
+    ],
+    [
+      "UT-777-XY",
+      37500
+    ],
+    [
+      "MB-222-KL",
+      36000
+    ],
+    [
+      "AU-888-ZT",
+      34600
+    ],
+    [
+      "UT-444-DD",
+      34500
+    ]
+  ],
+  "statistiques_categories": {
+    "voiture": {
+      "nombre": 8,
+      "cout_moyen": 27212.5,
+      "cout_total": 217700,
+      "kilometrage_moyen": 31500.0,
+      "kilometrage_total": 252000,
+      "age_moyen": 5.625
+    },
+    "moto": {
+      "nombre": 3,
+      "cout_moyen": 8333.333333333334,
+      "cout_total": 25000,
+      "kilometrage_moyen": 12000.0,
+      "kilometrage_total": 36000,
+      "age_moyen": 5.0
+    },
+    "utilitaire": {
+      "nombre": 4,
+      "cout_moyen": 33175.0,
+      "cout_total": 132700,
+      "kilometrage_moyen": 75500.0,
+      "kilometrage_total": 302000,
+      "age_moyen": 6.5
+    }
+  },
+  "analyse_conducteurs": {
+    "Jean Dupont": {
+      "nombre_missions": 18,
+      "distance_totale": 12997.0,
+      "cout_carburant": 1515.65,
+      "distance_moyenne": 722.0555555555555,
+      "cout_moyen": 84.20277777777778
+    },
+    "Isabelle Richard": {
+      "nombre_missions": 16,
+      "distance_totale": 8369.0,
+      "cout_carburant": 951.2999999999998,
+      "distance_moyenne": 523.0625,
+      "cout_moyen": 59.45624999999999
+    },
+    "Michel Robert": {
+      "nombre_missions": 14,
+      "distance_totale": 8838.0,
+      "cout_carburant": 1095.1299999999999,
+      "distance_moyenne": 631.2857142857143,
+      "cout_moyen": 78.22357142857142
+    },
+    "Sophie Bernard": {
+      "nombre_missions": 14,
+      "distance_totale": 10096.0,
+      "cout_carburant": 1202.13,
+      "distance_moyenne": 721.1428571428571,
+      "cout_moyen": 85.86642857142859
+    },
+    "Luc Thomas": {
+      "nombre_missions": 12,
+      "distance_totale": 10424.0,
+      "cout_carburant": 1181.77,
+      "distance_moyenne": 868.6666666666666,
+      "cout_moyen": 98.48083333333334
+    },
+    "Claire Petit": {
+      "nombre_missions": 10,
+      "distance_totale": 6738.0,
+      "cout_carburant": 775.1400000000001,
+      "distance_moyenne": 673.8,
+      "cout_moyen": 77.51400000000001
+    },
+    "Pierre Dubois": {
+      "nombre_missions": 12,
+      "distance_totale": 4906.0,
+      "cout_carburant": 512.5600000000001,
+      "distance_moyenne": 408.8333333333333,
+      "cout_moyen": 42.71333333333334
+    },
+    "Marie Martin": {
+      "nombre_missions": 4,
+      "distance_totale": 2613.0,
+      "cout_carburant": 319.48,
+      "distance_moyenne": 653.25,
+      "cout_moyen": 79.87
+    },
+    "Amina Keita": {
+      "nombre_missions": 17,
+      "distance_totale": 9609.0,
+      "cout_carburant": 1116.87,
+      "distance_moyenne": 565.2352941176471,
+      "cout_moyen": 65.69823529411764
+    }
+  },
+  "taux_utilisation_30j": 80.0,
+  "cout_moyen_kilometrique": 0.6635176241339964
+}

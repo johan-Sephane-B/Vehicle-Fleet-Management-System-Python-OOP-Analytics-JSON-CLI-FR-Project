@@ -1,2 +1,0 @@
-# Vehicle-Fleet-Management-System-Python-OOP-Analytics-JSON-CLI-FR-Project
-Python fleet management system with advanced OOP &amp; analytics. Features: vehicle CRUD (cars/motorcycles/utilities), mission tracking, cost analysis, Matplotlib visualizations, JSON persistence with auto-backup, pytest suite (87% coverage), CLI interface. Layered architecture. Perfect for MIAGE projects. Tech: Python 3.10+, Type Hints, Enums.
