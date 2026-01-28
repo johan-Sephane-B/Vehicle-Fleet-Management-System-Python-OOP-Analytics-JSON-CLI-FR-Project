@@ -560,7 +560,7 @@ Contributions are welcome! Please follow these guidelines:
 **Johan Sephane B.**  
 Aspiring AI/ML Engineer - Gap Year 2025-2026  
 Python Specialist | Data Analysis Enthusiast  
-Email: stephanejohanbahou@mail@mail.com  
+Email: stephanejohanbahou@mail.com  
 GitHub: [@johan-Sephane-B](https://github.com/johan-Sephane-B)
 
 **About**: Currently in a gap year focused on mastering Python and preparing for advanced studies in Artificial Intelligence and Machine Learning. This project demonstrates proficiency in software development, data analysis, and clean code practices essential for ML engineering.
